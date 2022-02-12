@@ -1,0 +1,264 @@
+[   0.000085] Config <Info> core/settings.cpp:LogSettings:80: Citra Configuration:
+[   0.000097] Config <Info> core/settings.cpp:operator():77: Core_UseCpuJit: true
+[   0.000102] Config <Info> core/settings.cpp:operator():77: Core_CPUClockPercentage: 100
+[   0.000108] Config <Info> core/settings.cpp:operator():77: Renderer_UseGLES: false
+[   0.000108] Config <Info> core/settings.cpp:operator():77: Renderer_UseHwRenderer: true
+[   0.000109] Config <Info> core/settings.cpp:operator():77: Renderer_UseHwShader: true
+[   0.000109] Config <Info> core/settings.cpp:operator():77: Renderer_SeparableShader: false
+[   0.000116] Config <Info> core/settings.cpp:operator():77: Renderer_ShadersAccurateMul: true
+[   0.000117] Config <Info> core/settings.cpp:operator():77: Renderer_UseShaderJit: true
+[   0.000118] Config <Info> core/settings.cpp:operator():77: Renderer_UseResolutionFactor: 4
+[   0.000121] Config <Info> core/settings.cpp:operator():77: Renderer_FrameLimit: 100
+[   0.000122] Config <Info> core/settings.cpp:operator():77: Renderer_UseFrameLimitAlternate: false
+[   0.000122] Config <Info> core/settings.cpp:operator():77: Renderer_FrameLimitAlternate: 200
+[   0.000123] Config <Info> core/settings.cpp:operator():77: Renderer_VSyncNew: true
+[   0.000123] Config <Info> core/settings.cpp:operator():77: Renderer_PostProcessingShader: none (builtin)
+[   0.000124] Config <Info> core/settings.cpp:operator():77: Renderer_FilterMode: true
+[   0.000125] Config <Info> core/settings.cpp:operator():77: Renderer_TextureFilterName: none
+[   0.000125] Config <Info> core/settings.cpp:operator():77: Stereoscopy_Render3d: 0
+[   0.000126] Config <Info> core/settings.cpp:operator():77: Stereoscopy_Factor3d: 0
+[   0.000126] Config <Info> core/settings.cpp:operator():77: Layout_LayoutOption: 0
+[   0.000127] Config <Info> core/settings.cpp:operator():77: Layout_SwapScreen: false
+[   0.000128] Config <Info> core/settings.cpp:operator():77: Layout_UprightScreen: false
+[   0.000128] Config <Info> core/settings.cpp:operator():77: Utility_DumpTextures: false
+[   0.000129] Config <Info> core/settings.cpp:operator():77: Utility_CustomTextures: false
+[   0.000129] Config <Info> core/settings.cpp:operator():77: Utility_UseDiskShaderCache: true
+[   0.000130] Config <Info> core/settings.cpp:operator():77: Audio_EnableDspLle: false
+[   0.000131] Config <Info> core/settings.cpp:operator():77: Audio_EnableDspLleMultithread: false
+[   0.000131] Config <Info> core/settings.cpp:operator():77: Audio_OutputEngine: auto
+[   0.000132] Config <Info> core/settings.cpp:operator():77: Audio_EnableAudioStretching: true
+[   0.000133] Config <Info> core/settings.cpp:operator():77: Audio_OutputDevice: auto
+[   0.000133] Config <Info> core/settings.cpp:operator():77: Audio_InputDeviceType: 0
+[   0.000134] Config <Info> core/settings.cpp:operator():77: Audio_InputDevice: Default
+[   0.000134] Config <Info> core/settings.cpp:operator():77: Camera_OuterRightName: blank
+[   0.000135] Config <Info> core/settings.cpp:operator():77: Camera_OuterRightConfig: 
+[   0.000135] Config <Info> core/settings.cpp:operator():77: Camera_OuterRightFlip: 0
+[   0.000136] Config <Info> core/settings.cpp:operator():77: Camera_InnerName: blank
+[   0.000136] Config <Info> core/settings.cpp:operator():77: Camera_InnerConfig: 
+[   0.000137] Config <Info> core/settings.cpp:operator():77: Camera_InnerFlip: 0
+[   0.000138] Config <Info> core/settings.cpp:operator():77: Camera_OuterLeftName: blank
+[   0.000138] Config <Info> core/settings.cpp:operator():77: Camera_OuterLeftConfig: 
+[   0.000139] Config <Info> core/settings.cpp:operator():77: Camera_OuterLeftFlip: 0
+[   0.000139] Config <Info> core/settings.cpp:operator():77: DataStorage_UseVirtualSd: true
+[   0.000140] Config <Info> core/settings.cpp:operator():77: DataStorage_SdmcDir: C:\Users\Microplanet\AppData\Roaming/Citra/sdmc/
+[   0.000141] Config <Info> core/settings.cpp:operator():77: DataStorage_NandDir: C:\Users\Microplanet\AppData\Roaming/Citra/nand/
+[   0.000141] Config <Info> core/settings.cpp:operator():77: System_IsNew3ds: true
+[   0.000142] Config <Info> core/settings.cpp:operator():77: System_RegionValue: -1
+[   0.000142] Config <Info> core/settings.cpp:operator():77: Debugging_UseGdbstub: false
+[   0.000143] Config <Info> core/settings.cpp:operator():77: Debugging_GdbstubPort: 24689
+[   0.241230] Input <Info> input_common/udp/client.cpp:StartCommunication:207: Starting communication with UDP input server on 127.0.0.1:26760
+[   1.422104] Frontend <Info> citra_qt/main.cpp:GMainWindow:190: Citra Version: Nightly 1753  | HEAD-cdbd72e
+[   1.422119] Frontend <Info> citra_qt/main.cpp:GMainWindow:206: Host CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz | AVX2 | FMA
+[   1.422154] Frontend <Info> citra_qt/main.cpp:GMainWindow:208: Host OS: Windows 10 (10.0)
+[   3.033144] Frontend <Info> citra_qt/main.cpp:CheckForUpdates:830: Update check started
+[   3.843643] Frontend <Info> citra_qt/main.cpp:OnUpdateFound:843: No updates found
+[   9.037486] Frontend <Info> citra_qt/main.cpp:BootGame:1022: Citra starting...
+[   9.292422] Audio.DSP <Info> audio_core/hle/wmf_decoder.cpp:Impl:67: Media Foundation activated
+[   9.294396] Audio.DSP <Info> audio_core/hle/wmf_decoder_utils.cpp:MFDecoderInit:50: Windows(R) Media Foundation found 1 suitable decoder(s)
+[   9.349342] Audio.Sink <Info> audio_core/cubeb_sink.cpp:StateCallback:137: Cubeb Audio Stream Started
+[   9.349736] RPC_Server <Info> core/rpc/rpc_server.cpp:RPCServer:12: Starting RPC server ...
+[   9.349904] RPC_Server <Info> core/rpc/rpc_server.cpp:HandleRequestsLoop:113: Request handler started.
+[   9.350187] RPC_Server <Info> core/rpc/rpc_server.cpp:RPCServer:16: RPC started.
+[   9.381256] Service.HTTP <Error> core/hle/service/http_c.cpp:DecryptClCertA:806: ClCertA file missing
+[   9.449560] Render.OpenGL <Info> video_core/renderer_opengl/renderer_opengl.cpp:Init:1261: GL_VERSION: 3.3.0 NVIDIA 511.23
+[   9.449568] Render.OpenGL <Info> video_core/renderer_opengl/renderer_opengl.cpp:Init:1262: GL_VENDOR: NVIDIA Corporation
+[   9.449571] Render.OpenGL <Info> video_core/renderer_opengl/renderer_opengl.cpp:Init:1263: GL_RENDERER: NVIDIA GeForce GTX 1050/PCIe/SSE2
+[   9.482177] Render.OpenGL <Info> video_core/renderer_opengl/gl_format_reinterpreter.cpp:FormatReinterpreterOpenGL:378: Using shader for D24S8 to RGBA8 reinterpretation
+[   9.498013] Loader <Info> core/loader/ncch.cpp:Load:192: Program ID: 00040000000A9000
+[   9.498119] Service.FS <Warning> core/file_sys/ncch_container.cpp:OpenFile:130: Failed to open C:\Users\Microplanet\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/title/0004000e/000a9000/content/00000000.app
+[   9.551144] Loader <Info> core/hle/kernel/process.cpp:ParseKernelCaps:141: ExHeader kernel version: 2.32
+[   9.554494] Service.FS <Info> core/file_sys/ncch_container.cpp:LoadSectionExeFS:505: Attempting to load logo from the ExeFS
+[   9.556382] Service.CFG <Info> core/hle/service/cfg/cfg.cpp:SetPreferredRegionCodes:656: Preferred region code set to 1
+[  10.212469] Render.OpenGL <Info> video_core/renderer_opengl/gl_shader_disk_cache.cpp:LoadTransferable:169: Found a transferable disk cache with 3290 entries
+[  10.364754] Render.OpenGL <Info> video_core/renderer_opengl/gl_shader_disk_cache.cpp:LoadPrecompiledFile:266: Found a precompiled disk cache with 1589 decompiled entries and 1589 binary entries
+[  13.950408] Service.SRV <Warning> core/hle/service/sm/srv.cpp:RegisterClient:63: (STUBBED) called. Caller PID=11
+[  13.950748] Service.SRV <Warning> core/hle/service/sm/srv.cpp:EnableNotification:85: (STUBBED) called
+[  13.954607] Service.APT <Warning> core/hle/service/apt/apt.cpp:GetLockHandle:317: (STUBBED) called applet_attributes=0X00000000
+[  13.960106] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:OverrideDefaultDaemons:186: (STUBBED) bit_mask=0x0000000F
+[  13.961123] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:SuspendDaemons:74: (STUBBED) bit_mask=0x00000006
+[  13.962596] Service.APT <Warning> core/hle/service/apt/apt.cpp:NotifyToWait:296: (STUBBED) app_id=768
+[  13.965649] Service.APT <Warning> core/hle/service/apt/apt.cpp:AppletUtility:590: (STUBBED) called command=0X00000007, input_size=0X00000004, output_size=0X00000001
+[  13.966037] Service.APT <Warning> core/hle/service/apt/apt.cpp:AppletUtility:590: (STUBBED) called command=0X00000004, input_size=0X00000001, output_size=0X00000001
+[  13.966453] Service.APT <Warning> core/hle/service/apt/apt.cpp:AppletUtility:590: (STUBBED) called command=0X00000004, input_size=0X00000001, output_size=0X00000001
+[  13.968841] Service.FS <Warning> core/hle/service/fs/fs_user.cpp:InitializeWithSdkVersion:600: (STUBBED) called, version: 0x030300C8
+[  13.971271] Service.FS <Error> ./core/file_sys/archive_backend.h:GetOpenDelayNs:193: Delay generator was not initalized. Using default
+[  14.012651] Service.FS <Error> ./core/file_sys/archive_backend.h:GetOpenDelayNs:193: Delay generator was not initalized. Using default
+[  14.184530] Service.GSP <Warning> core/hle/service/gsp/gsp_gpu.cpp:AcquireRight:705: called flag=00000000 process=11 thread_id=0
+[  14.198237] Render.OpenGL <Error> video_core/renderer_opengl/gl_rasterizer_cache.cpp:MortonCopy:188: Out of bound texture
+[  14.304765] Service.SRV <Warning> core/hle/service/sm/srv.cpp:Subscribe:210: (STUBBED) called, notification_id=0x209
+[  14.305032] Service.SRV <Warning> core/hle/service/sm/srv.cpp:Subscribe:210: (STUBBED) called, notification_id=0x207
+[  14.312172] Service.DSP <Info> audio_core/hle/hle.cpp:LoadComponent:496: Firmware hash: 0x4e08624ada4a60e0
+[  14.312177] Service.DSP <Info> audio_core/hle/hle.cpp:LoadComponent:500: Structures hash: 0x228655de1258d999
+[  14.312183] Service.DSP <Info> core/hle/service/dsp/dsp_dsp.cpp:LoadComponent:188: called size=0xBFFA, prog_mask=0x000000FF, data_mask=0x000A00FF
+[  14.313036] Service.DSP <Info> core/hle/service/dsp/dsp_dsp.cpp:RegisterInterruptEvents:254: Registered interrupt=2, channel=2, event=event-001228d0
+[  14.313315] Service.DSP <Warning> core/hle/service/dsp/dsp_dsp.cpp:GetSemaphoreEventHandle:271: (STUBBED) called
+[  14.313599] Service.DSP <Warning> core/hle/service/dsp/dsp_dsp.cpp:SetSemaphoreMask:281: (STUBBED) called mask=0x2000
+[  14.314101] Audio.DSP <Info> audio_core/hle/hle.cpp:PipeWrite:257: Application has requested initialization of DSP hardware
+[  14.314319] Service.DSP <Info> core/hle/service/dsp/dsp_dsp.cpp:SetSemaphore:57: called, semaphore_value=4000
+[  14.320406] Service.DSP <Info> core/hle/service/dsp/dsp_dsp.cpp:SetSemaphore:57: called, semaphore_value=4000
+[  14.860913] Service.APT <Warning> core/hle/service/apt/apt.cpp:AppletUtility:590: (STUBBED) called command=0X00000007, input_size=0X00000004, output_size=0X00000001
+[  14.861091] Service.APT <Warning> core/hle/service/apt/apt.cpp:AppletUtility:590: (STUBBED) called command=0X00000004, input_size=0X00000001, output_size=0X00000001
+[  23.235361] Service.FS <Warning> core/hle/service/fs/file.cpp:OpenLinkFile:214: (STUBBED) File command OpenLinkFile Path: [Binary: 000000000000000000000000]
+[  23.252263] Service.FS <Warning> core/hle/service/fs/file.cpp:OpenLinkFile:214: (STUBBED) File command OpenLinkFile Path: [Binary: 000000000000000000000000]
+[  25.575895] Service.FS <Error> ./core/file_sys/archive_backend.h:GetOpenDelayNs:193: Delay generator was not initalized. Using default
+[  28.180589] Service <Error> core/hle/service/service.cpp:ReportUnimplementedFunction:161: unknown / unimplemented function 'ControlArchive': port='fs:USER' cmd_buf={[0]=0x80d0144, [1]=0x4, [2]=0x0, [3]=0x0, [4]=0x1, [5]=0x1, [6]=0x1a, [7]=0x0, [8]=0x1c, [9]=0x1}
+[  28.396515] Service.FS <Warning> core/hle/service/fs/fs_user.cpp:GetArchiveResource:635: (STUBBED) called Media type=0x00000002
+[  28.399337] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:InitializeSession:23: (STUBBED) programID=0X0000000000000000
+[  28.400155] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:GetStorageInfo:56: (STUBBED) called
+[  28.400551] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:GetOptoutFlag:124: output_flag=0
+[  28.401146] Service.FS <Error> ./core/file_sys/archive_backend.h:GetOpenDelayNs:193: Delay generator was not initalized. Using default
+[  28.410393] Service.FS <Error> ./core/file_sys/file_backend.h:GetReadDelayNs:54: Delay generator was not initalized. Using default
+[  28.412213] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:GetTaskServiceStatus:369: (STUBBED) size=0X00000005
+[  28.413136] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:GetTaskInfo:504: (STUBBED) size=0X00000005, unk_param2=0X80
+[  28.413657] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0000, size=0X00000001
+[  28.413851] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0001, size=0X00000001
+[  28.413872] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0002, size=0X00000004
+[  28.413910] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0003, size=0X00000004
+[  28.413961] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0004, size=0X00000004
+[  28.413982] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0005, size=0X00000001
+[  28.414099] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0006, size=0X00000001
+[  28.414127] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0007, size=0X00000200
+[  28.414144] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0009, size=0X00000001
+[  28.414204] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X000A, size=0X00000100
+[  28.414229] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X000D, size=0X00000360
+[  28.414247] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0016, size=0X00000004
+[  28.414263] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0008, size=0X00000004
+[  28.414282] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X000E, size=0X00000004
+[  28.414301] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X000F, size=0X0000000C
+[  28.414319] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X003B, size=0X00000004
+[  28.414337] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0012, size=0X00000001
+[  28.414355] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X003F, size=0X00000001
+[  28.414374] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0011, size=0X00000001
+[  28.414391] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0010, size=0X00000001
+[  28.414411] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0013, size=0X00000004
+[  28.414439] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0014, size=0X00000004
+[  28.414457] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0015, size=0X00000040
+[  28.414570] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0018, size=0X00000001
+[  28.414590] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X0019, size=0X00000001
+[  28.414607] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X001A, size=0X00000001
+[  28.414624] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X001B, size=0X00000004
+[  28.414643] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:ReceiveProperty:304: (STUBBED) property_id=0X001C, size=0X00000004
+[  28.415846] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:CancelTask:405: (STUBBED) size=0X00000005
+[  28.416205] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:UnregisterTask:152: (STUBBED) size=0X00000005, unk_param2=0X00
+[  28.416431] Service.FS <Error> ./core/file_sys/archive_backend.h:GetOpenDelayNs:193: Delay generator was not initalized. Using default
+[  28.426297] Service.FS <Error> ./core/file_sys/file_backend.h:GetReadDelayNs:54: Delay generator was not initalized. Using default
+[  28.426561] Service.FS <Error> ./core/file_sys/archive_backend.h:GetOpenDelayNs:193: Delay generator was not initalized. Using default
+[  28.426689] Service.FS <Error> ./core/file_sys/file_backend.h:GetReadDelayNs:54: Delay generator was not initalized. Using default
+[  28.428019] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:CancelTask:405: (STUBBED) size=0X00000005
+[  28.428044] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:UnregisterTask:152: (STUBBED) size=0X00000005, unk_param2=0X00
+[  28.429310] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0000, size=0X00000001
+[  28.429436] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0001, size=0X00000001
+[  28.429456] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0002, size=0X00000004
+[  28.429474] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0003, size=0X00000004
+[  28.429493] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0004, size=0X00000004
+[  28.429510] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0005, size=0X00000001
+[  28.429640] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0006, size=0X00000001
+[  28.429663] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0007, size=0X00000200
+[  28.429680] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0009, size=0X00000001
+[  28.429739] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X000A, size=0X00000100
+[  28.429766] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X000D, size=0X00000360
+[  28.429783] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0016, size=0X00000004
+[  28.429800] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0008, size=0X00000004
+[  28.429824] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X000E, size=0X00000004
+[  28.429854] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X000F, size=0X0000000C
+[  28.429880] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X003B, size=0X00000004
+[  28.429915] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0012, size=0X00000001
+[  28.429955] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X003F, size=0X00000001
+[  28.429987] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0010, size=0X00000001
+[  28.430018] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0011, size=0X00000001
+[  28.430039] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0013, size=0X00000004
+[  28.430062] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0014, size=0X00000004
+[  28.430082] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:SendProperty:279: (STUBBED) property_id=0X0015, size=0X00000040
+[  28.430381] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:RegisterTask:138: (STUBBED) size=0X00000005, unk_param2=0X00, unk_param3=0X00
+[  28.430756] Service.BOSS <Warning> core/hle/service/boss/boss.cpp:StartTask:381: (STUBBED) size=0X00000005
+[  28.445712] Service.FS <Error> core/file_sys/savedata_archive.cpp:CreateDirectory:278: C:\Users\Microplanet\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/extdata/00000000/00000A91/user/photo already exists
+[  28.456382] Service.FS <Error> core/file_sys/savedata_archive.cpp:CreateDirectory:278: C:\Users\Microplanet\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/extdata/00000000/00000A91/user/WifiMallTheme already exists
+[  28.456751] Service.FS <Error> core/file_sys/savedata_archive.cpp:CreateDirectory:278: C:\Users\Microplanet\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/extdata/00000000/00000A91/user/companion_merge already exists
+[  30.884949] Service <Error> core/hle/service/service.cpp:ReportUnimplementedFunction:161: unknown / unimplemented function 'ControlArchive': port='fs:USER' cmd_buf={[0]=0x80d0144, [1]=0x4, [2]=0x0, [3]=0x0, [4]=0x1, [5]=0x1, [6]=0x1a, [7]=0x0, [8]=0x1c, [9]=0x1}
+[  37.522960] Service.FS <Error> core/file_sys/archive_extsavedata.cpp:OpenFile:141: C:\Users\Microplanet\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/extdata/00000000/00000A91/user/companion_merge/merge_data.bin not found
+[  37.522984] Service.FS <Error> core/hle/service/fs/fs_user.cpp:OpenFile:77: failed to get a handle for file [Wchar: /companion_merge/merge_data.bin]
+[  37.556030] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:SuspendDaemons:74: (STUBBED) bit_mask=0x00000001
+[  37.583494] Service.FS <Critical> core/file_sys/savedata_archive.cpp:OpenFile:91: (unreachable) Unknown error opening C:\Users\Microplanet\AppData\Roaming/Citra/nand/data/00000000000000000000000000000000/sysdata/00010026/00000000/CEC/000a9100/InBox___/BoxInfo_____
+[  37.584602] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:ResumeDaemons:89: (STUBBED) bit_mask=0x00000001
+[  38.326191] Service.FS <Error> core/file_sys/archive_extsavedata.cpp:OpenFile:134: Path not found C:\Users\Microplanet\AppData\Roaming/Citra/sdmc/Nintendo 3DS/00000000000000000000000000000000/00000000000000000000000000000000/extdata/00000000/00000A91/user/download/Manage.bin
+[  38.326225] Service.FS <Error> core/hle/service/fs/fs_user.cpp:OpenFile:77: failed to get a handle for file [Wchar: /download/Manage.bin]
+[  39.386891] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  39.429887] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  43.516849] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  43.522928] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  43.530056] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  43.618666] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  43.624612] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  43.640546] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  43.659801] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Fragment shader in program 390 is being recompiled based on GL state.
+[  43.855414] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:SuspendDaemons:74: (STUBBED) bit_mask=0x00000001
+[  43.859901] Service.FS <Critical> core/file_sys/savedata_archive.cpp:OpenFile:91: (unreachable) Unknown error opening C:\Users\Microplanet\AppData\Roaming/Citra/nand/data/00000000000000000000000000000000/sysdata/00010026/00000000/CEC/000a9100/InBox___/BoxInfo_____
+[  43.860001] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:ResumeDaemons:89: (STUBBED) bit_mask=0x00000001
+[  46.393412] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:SuspendDaemons:74: (STUBBED) bit_mask=0x00000001
+[  46.394716] Service.FS <Critical> core/file_sys/savedata_archive.cpp:OpenFile:91: (unreachable) Unknown error opening C:\Users\Microplanet\AppData\Roaming/Citra/nand/data/00000000000000000000000000000000/sysdata/00010026/00000000/CEC/000a9100/InBox___/BoxInfo_____
+[  46.394791] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:ResumeDaemons:89: (STUBBED) bit_mask=0x00000001
+[  46.452765] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  46.461879] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  46.491623] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Fragment shader in program 682 is being recompiled based on GL state.
+[  49.035551] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  49.608200] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  49.755013] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:SuspendDaemons:74: (STUBBED) bit_mask=0x00000001
+[  49.765615] Service.FS <Critical> core/file_sys/savedata_archive.cpp:OpenFile:91: (unreachable) Unknown error opening C:\Users\Microplanet\AppData\Roaming/Citra/nand/data/00000000000000000000000000000000/sysdata/00010026/00000000/CEC/000a9100/InBox___/BoxInfo_____
+[  49.765634] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:ResumeDaemons:89: (STUBBED) bit_mask=0x00000001
+[  51.854041] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:SuspendDaemons:74: (STUBBED) bit_mask=0x00000001
+[  51.870940] Service.FS <Critical> core/file_sys/savedata_archive.cpp:OpenFile:91: (unreachable) Unknown error opening C:\Users\Microplanet\AppData\Roaming/Citra/nand/data/00000000000000000000000000000000/sysdata/00010026/00000000/CEC/000a9100/InBox___/BoxInfo_____
+[  51.870968] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:ResumeDaemons:89: (STUBBED) bit_mask=0x00000001
+[  54.867483] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  75.194737] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:SuspendDaemons:74: (STUBBED) bit_mask=0x00000001
+[  75.209530] Service.FS <Critical> core/file_sys/savedata_archive.cpp:OpenFile:91: (unreachable) Unknown error opening C:\Users\Microplanet\AppData\Roaming/Citra/nand/data/00000000000000000000000000000000/sysdata/00010026/00000000/CEC/000a9100/InBox___/BoxInfo_____
+[  75.209551] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:ResumeDaemons:89: (STUBBED) bit_mask=0x00000001
+[  78.028590] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[  78.229252] WebService <Info> web_service/verify_user_jwt.cpp:GetPublicKey:22: Fetched external JWT public key (size=450)
+[  78.229998] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[  78.423452] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[  78.554865] WebService <Info> core/announce_multiplayer_session.cpp:Register:46: Room has been registered
+[  78.554977] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[  78.556379] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[  78.734417] WebService <Info> citra_qt/multiplayer/host_room.cpp:Host:193: Successfully requested external JWT: size=874
+[  78.762525] Network <Info> network/room.cpp:SendStatusMessage:790: [127.0.0.1] Gesus (MLGesus) has joined.
+[  78.762561] Network <Info> network/room.cpp:HandleGameNamePacket:973: Gesus (MLGesus) is playing New Style Boutique
+[  78.767968] Audio.Sink <Info> audio_core/cubeb_sink.cpp:StateCallback:137: Cubeb Audio Stream Started
+[  78.768980] Audio.Sink <Info> audio_core/cubeb_sink.cpp:StateCallback:140: Cubeb Audio Stream Stopped
+[  78.794843] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[  78.795338] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[  84.290370] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:SuspendDaemons:74: (STUBBED) bit_mask=0x00000001
+[  84.307062] Service.FS <Critical> core/file_sys/savedata_archive.cpp:OpenFile:91: (unreachable) Unknown error opening C:\Users\Microplanet\AppData\Roaming/Citra/nand/data/00000000000000000000000000000000/sysdata/00010026/00000000/CEC/000a9100/InBox___/BoxInfo_____
+[  84.307086] Service.NDM <Warning> core/hle/service/ndm/ndm_u.cpp:ResumeDaemons:89: (STUBBED) bit_mask=0x00000001
+[  87.805344] Render.OpenGL <Warning> video_core/renderer_opengl/renderer_opengl.cpp:DebugHandler:1238: API PERFORMANCE 131218: Program/shader state performance warning: Vertex shader in program 21 is being recompiled based on GL state.
+[  93.556876] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[  99.731169] Service.Y2R <Warning> core/hle/service/y2r_u.cpp:SetTransferEndInterrupt:212: (STUBBED) called
+[  99.733007] Service.ERR <Critical> core/hle/service/err_f.cpp:ThrowFatalError:169: Fatal error
+[  99.733010] Service.ERR <Critical> core/hle/service/err_f.cpp:ThrowFatalError:171: Fatal error type: Generic
+[  99.733011] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:149: PID: 0x0000000B
+[  99.733012] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:150: REV: 0x00000000_0x0000B11B
+[  99.733012] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:152: TID: 0x00000000_0x00000000
+[  99.733013] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:154: AID: 0x00000000_0x00000000
+[  99.733014] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:156: ADR: 0x004756BC
+[  99.733014] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:159: RSL: 0xE0E046BC
+[  99.733015] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:160:   Level: 28
+[  99.733015] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:161:   Summary: 7
+[  99.733015] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:162:   Module: 17
+[  99.733016] Service.ERR <Critical> core/hle/service/err_f.cpp:LogGenericInfo:163:   Desc: 700
+[  99.735745] Service.ERR <Critical> core/hle/service/err_f.cpp:ThrowFatalError:182: Datetime: 2022/02/12 11:29:49
+[ 108.191808] RPC_Server <Info> core/rpc/rpc_server.cpp:~RPCServer:20: Stopping RPC ...
+[ 108.193384] RPC_Server <Info> core/rpc/server.cpp:NewRequestCallback:37: Received end packet
+[ 108.194727] RPC_Server <Info> core/rpc/rpc_server.cpp:~RPCServer:24: RPC stopped.
+[ 108.215968] Audio.Sink <Info> audio_core/cubeb_sink.cpp:StateCallback:140: Cubeb Audio Stream Stopped
+[ 108.371133] Network <Info> network/room.cpp:HandleGameNamePacket:971: Gesus (MLGesus) is not playing
+[ 108.556133] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[ 108.639696] Service.CAM <Info> citra_qt/camera/qt_multimedia_camera.cpp:StopCameras:210: Stopping all cameras
+[ 108.639705] Service.CAM <Info> citra_qt/camera/qt_multimedia_camera.cpp:ReleaseHandlers:228: Releasing all handlers
+[ 123.556618] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[ 138.556088] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[ 153.556537] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[ 168.556850] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[ 183.557048] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[ 198.555905] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[ 213.556160] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
+[ 220.393233] Network <Info> network/room.cpp:SendStatusMessage:793: [127.0.0.1] Gesus (MLGesus) has left.
+[ 220.411629] WebService <Error> web_service/web_backend.cpp:GenericRequest:82: https://api.citra-emu.org
